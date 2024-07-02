@@ -1,6 +1,10 @@
 # neat-reader
 neat-reader 本地版
 
+也可以直接访问： https://xyz349925756.github.io/neat-reader
+
+
+
 官网在线版： https://www.neat-reader.cn/webapp#/
 
 > [!note]
