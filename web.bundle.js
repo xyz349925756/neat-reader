@@ -67358,10 +67358,10 @@
           console.log("onPaginationChanged", l),
             window.NeatReader && window.NeatReader.onPaginationChanged(l);
         },
-        showSelectionMenu: function (e) {
-          console.log("Call WebAppApi >>> showSelectionMenu(data)", e),
-            window.NeatReader && window.NeatReader.showSelectionMenu(e);
-        },
+        // showSelectionMenu: function (e) {
+        //   console.log("Call WebAppApi >>> showSelectionMenu(data)", e),
+        //     window.NeatReader && window.NeatReader.showSelectionMenu(e);
+        // },
         showNoteEditWindow: function (e) {
           console.log("Call WebAppApi >>> showNoteEditWindow(data)", e),
             window.NeatReader && window.NeatReader.showNoteEditWindow(e);
